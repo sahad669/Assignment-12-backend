@@ -68,8 +68,3 @@ inventory-api/
 
 ### 🔹 GET `/items` – List All Items
 ![GET Items](./media/Screenshot%20-get%20req.png)
-
-
-
-## 📁 Folder Structure
-
